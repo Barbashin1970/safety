@@ -62,6 +62,7 @@ scenario = st.sidebar.radio(
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("База знаний: онтологические триплеты по строительству и ЖКХ.")
+st.sidebar.markdown("Код проекта: https://github.com/Barbashin1970/safety")
 
 # ----------------------
 # Общие утилиты
